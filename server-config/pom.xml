@@ -16,4 +16,7 @@
             <artifactId>spring-cloud-config-server</artifactId>
         </dependency>
     </dependencies>
+    <build>
+        <finalName>config-server</finalName>
+    </build>
 </project>

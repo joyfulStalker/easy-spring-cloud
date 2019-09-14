@@ -10,4 +10,7 @@
     </parent>
     <artifactId>eureka</artifactId>
     <description>注册中心</description>
+    <build>
+        <finalName>spring-eureka</finalName>
+    </build>
 </project>

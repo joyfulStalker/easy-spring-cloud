@@ -23,4 +23,8 @@
             <artifactId>spring-boot-admin-server-ui</artifactId>
         </dependency>
     </dependencies>
+
+    <build>
+        <finalName>spring-admin</finalName>
+    </build>
 </project>
